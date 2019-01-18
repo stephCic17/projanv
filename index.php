@@ -60,7 +60,7 @@
 <body class="">
 
 
-<!-- ICI Menu de navigation -->
+<!-- ICI Menu haut de page -->
 
 <header class="header js-header js-animation-header">
     <div class="grid">
@@ -471,8 +471,9 @@
 
 <!-- Cover Full -->
 <div class="demo-div">
+<h1 class="title-psa">Matrice & PSA </h1>
     <img class="logo-matrice" src="matrice.png">
-    <p>Designe, code nous attendons l'équipe gagnante</p>
+    <p>Vous lancent un défi : designer et coder le prochain site de PSA.<br/><b>Nous afficherons ici le site de l'équipe gagnante !</b></p>
 </div>
 <section class="cover-news">
     <div class="grid">
