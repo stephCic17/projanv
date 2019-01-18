@@ -37,598 +37,429 @@
     <meta property="og:locale" content="fr_FR" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="MAtrice Constructeur automobile français | Groupe PSA" />
-    <meta property="og:description" content="MAtrice Le Groupe PSA est à la fois spécialiste dans la construction de véhicules d&#039;excellence et fournisseur de solutions de mobilité innovantes." />
+    <meta property="og:description" content="Le Groupe PSA est à la fois spécialiste dans la construction de véhicules d&#039;excellence et fournisseur de solutions de mobilité innovantes." />
     <meta property="og:url" content="https://www.groupe-psa.com/fr/" />
     <meta property="og:site_name" content="Groupe PSA" />
     <meta property="og:image" content="https://formprop.herokuapp.com/LogoPSABleu.png" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Le Groupe PSA est à la fois spécialiste dans la construction de véhicules d&#039;excellence et fournisseur de solutions de mobilité innovantes." />
-    <meta name="twitter:title" content="Matrice Constructeur automobile français | Groupe PSA" />
+    <meta name="twitter:title" content="Constructeur automobile français | Groupe PSA" />
     <meta name="twitter:image" content="https://formprop.herokuapp.com/LogoPSABleu.png" />
     <meta name="twitter:site" content="@GroupePSA">
     <meta name="twitter:creator" content="@GroupePSA">
     <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.groupe-psa.com\/fr\/","name":"Groupe PSA","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.groupe-psa.com\/fr\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
     <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.groupe-psa.com\/fr\/","sameAs":[],"@id":"#organization","name":"Groupe PSA","logo":"https:\/\/www.groupe-psa.com\/content\/uploads\/2017\/01\/LogoPSABleu.png"}</script>
-    <!-- / Yoast SEO plugin. -->
 
+    <!-- / Yoast SEO plugin. -->
     <link rel='dns-prefetch' href='//s.w.org' />
     <link rel='https://api.w.org/' href='https://www.groupe-psa.com/fr/wp-json/' />
     <meta name="generator" content="WPML ver:3.5.1.1 stt:1,4;" />
 
-    <style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#ffffff;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#ffffff;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#cdcdcd;} #lang_sel ul ul{border-top:1px solid #cdcdcd;}</style>
-    <style type="text/css" id="wp-custom-css">
-            /*
-Vous pouvez ajouter du CSS personnalisé ici.
 
-Cliquez sur l’icône d’aide ci-dessus pour en savoir plus.
-*/
-.cover-overview {
-    display: none;
-}       </style>
 </head>
 <body class="">
 
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-29458044-1', 'auto');
-    ga('require', 'displayfeatures');
-    ga('send', 'pageview', '/fr/');
-    
-</script>
-
-
-<div class="cookies js-cookies is-hidden">
-    <div class="grid">
-        <div class="cookies__container">
-            <p class="cookies__text">Nous utilisons des cookies pour améliorer votre expérience de navigation et nous aider à améliorer notre site. En continuant à utiliser celui-ci, vous acceptez l'utilisation de ces cookies. <a href="https://www.groupe-psa.com/fr/mentions-legales/">En savoir plus</a>
-            </p>
-            <a class="cookies__close js-cookies-close" href="#">
-                <svg class="icon icon-close" viewBox="0 0 20 20">
-                    <path d="M20,1.4289288 L11.4219954,10.0065042 L19.9069349,18.4910192 L18.4909437,19.9049382 L10.0070049,11.4214239 L1.4279996,20 L0,18.5710712 L8.5780046,9.99349577 L0.0940658461,1.50998149 L1.50805564,0.0940611397 L9.9929951,8.57857607 L18.5720004,0 L20,1.4289288 L20,1.4289288 Z"></path>
-                </svg>
-            </a>
-        </div>
-    </div>
-</div>
-
-
-
-<!-- Header -->
+<!-- ICI Menu de navigation -->
 
 <header class="header js-header js-animation-header">
     <div class="grid">
-        <a class="header__logo" href="https://www.groupe-psa.com/fr"><svg class="icon icon-logo" viewBox="0 0 90 51" id="psaicon">
-            <path></path>
-        </svg>
-    </a>
-    <nav class="header__nav">
-        <ul class="header__nav__list">
-            <li class="header__nav__item js-header-item">
-                <a href="https://www.groupe-psa.com/fr/groupe-automobile/" class="header__nav__link">
-                Groupe</a>
-                <div class="header__dropdown 0"><ul class="header__dropdown__list">
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/psa-createur-de-valeur-partagee-et-durable/">Le Groupe PSA : Créateur de Valeur, partagée et durable</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/strategie/">Stratégie</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/savoir-faire/">Savoir-faire</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/engagement-qualite/">Engagement qualité</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/innovation/">Innovation</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/performance-industrielle/">Performance industrielle</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/responsabilite/">Responsabilité et Ethique</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/presence-internationale/">Présence internationale</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/chiffres-cles/">Chiffres clés</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/gouvernance/">Gouvernance</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/histoire/">Histoire du Groupe</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/groupe-automobile/mecenat-fondation/">Mécénat et Fondation d’entreprise</a>
-                    </li>
-                </ul></div>
-            </li>
-            <li class="header__nav__item js-header-item">
-                <a href="https://www.groupe-psa.com/fr/marques-et-services/" class="header__nav__link">
-                Marques et Services</a>
-                <div class="header__dropdown 0"><ul class="header__dropdown__list">
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/peugeot/">Peugeot</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/citroen/">Citroën</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/ds/">DS Automobiles</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/opel/">Opel</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/vauxhall/">Vauxhall</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/free2move/">Free2Move</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/psa-powertrain/">PSA Powertrain</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/groupe-banque-psa-finance/">Banque PSA Finance</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/mister-auto/">Mister Auto</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/eurorepar/">Eurorepar</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/marques-et-services/autobutler/">Autobutler</a>
-                    </li>
-                </ul></div>
-            </li>
-            <li class="header__nav__item js-header-item">
-                <a href="https://www.groupe-psa.com/fr/actualites/" class="header__nav__link">
-                Actualités</a>
-            </li>
-            <li class="header__nav__item js-header-item">
-                <a href="https://www.groupe-psa.com/fr/finance/" class="header__nav__link">
-                Finance</a>
-                <div class="header__dropdown 0"><ul class="header__dropdown__list">
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/finance/analystes-et-investisseurs/">Analystes et Investisseurs</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/finance/actionnaires-individuels/">Actionnaires individuels</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/finance/publications-financieres/">Publications financières</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/finance/information-reglementee/">Information réglementée</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/finance/action-psa/">Action Peugeot S.A.</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/finance/gouvernance/">Gouvernance</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/finance/agenda/">Agenda</a>
-                    </li>
-                </ul></div>
-            </li>
-            <li class="header__nav__item js-header-item">
-                <a href="https://www.groupe-psa.com/fr/talents/" class="header__nav__link">
-                Talents</a>
-                <div class="header__dropdown 0"><ul class="header__dropdown__list">
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/talents/travailler-chez-psa/">Travailler dans le Groupe PSA</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/talents/metiers-automobile/">Les métiers du Groupe</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/talents/offres-emplois-automobile/">Nos offres d’emplois</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/talents/candidats/">Candidats</a>
-                    </li>
-                    <li class="header__dropdown__item">
-                        <a class="header__dropdown__link" href="https://www.groupe-psa.com/fr/talents/salaries/">Salariés</a>
-                    </li>
-                </ul></div>
-            </li>
-            <li class="header__nav__item js-header-item">
-                <a href="https://www.groupe-psa.com/fr/actualites/stories/" class="header__nav__link">
-                PSA Stories</a>
-            </li>
-        </ul>
-    </nav>
-    <button class="header__toggle js-nav-toggle"><span class="header__toggle__label">Menu</span><svg class="icon icon-menu">
-        <path d="M0,0 L26,0 L26,2 L0,2 L0,0 Z M0,9 L26,9 L26,11 L0,11 L0,9 Z M0,18 L26,18 L26,20 L0,20 L0,18 Z"></path>
-    </svg>
-</button>
-</div>
+        <a class="header__logo" href="https://www.groupe-psa.com/fr">
+            <svg class="icon icon-logo" viewBox="0 0 90 51" id="psaicon">
+                <path></path>
+            </svg>
+        </a>
+        <nav class="header__nav">
+            <ul class="header__nav__list">
+                <?php include 'menuNav/menugroupe.html' ?>
+                <?php include 'menuNav/menuMarques.html' ?>
+                <?php include 'menuNav/menuactualites.html' ?>
+                <?php include 'menuNav/menuFinance.html' ?>
+                <?php include 'menuNav/menutalents.html' ?>
+                <?php include 'menuNav/menuPSAStories.html' ?>
+            </ul>
+        </nav>
+        <button class="header__toggle js-nav-toggle">
+            <span class="header__toggle__label">Menu</span>
+            <svg class="icon icon-menu">
+                <path d="M0,0 L26,0 L26,2 L0,2 L0,0 Z M0,9 L26,9 L26,11 L0,11 L0,9 Z M0,18 L26,18 L26,20 L0,20 L0,18 Z"></path>
+            </svg>
+        </button>
+    </div>
 </header>
-
-
-
 
 <!-- Nav -->
 <nav class="nav js-nav">
-
     <div class="nav__header">
         <form class="form nav__form" action="https://www.groupe-psa.com/fr/resultats-de-recherche/" method="GET">
             <input class="nav__form__input" type="text" name="search" placeholder="Rechercher" required pattern=".{2,}" title="2 characters minimum"/>
-            <button class="nav__form__submit" type="submit"><svg class="icon icon-search" viewBox="0 0 12 12">
-                <path d="M7.29289322,8.8009431 L10.4919501,12 L12,10.4919501 L8.8009431,7.29289322 L7.29289322,8.8009431 L7.29289322,8.8009431 Z"></path>
-                <path d="M5,8 L5,8 C6.65685425,8 8,6.65685425 8,5 C8,3.34314575 6.65685425,2 5,2 C3.34314575,2 2,3.34314575 2,5 C2,6.65685425 3.34314575,8 5,8 L5,8 Z M5,10 L5,10 C2.23857625,10 0,7.76142375 0,5 C0,2.23857625 2.23857625,0 5,0 C7.76142375,0 10,2.23857625 10,5 C10,7.76142375 7.76142375,10 5,10 L5,10 Z"></path>
-            </svg>
-        </button>
-    </form>
-</div>
+            <button class="nav__form__submit" type="submit">
+                <svg class="icon icon-search" viewBox="0 0 12 12">
+                    <path d="M7.29289322,8.8009431 L10.4919501,12 L12,10.4919501 L8.8009431,7.29289322 L7.29289322,8.8009431 L7.29289322,8.8009431 Z"></path>
+                    <path d="M5,8 L5,8 C6.65685425,8 8,6.65685425 8,5 C8,3.34314575 6.65685425,2 5,2 C3.34314575,2 2,3.34314575 2,5 C2,6.65685425 3.34314575,8 5,8 L5,8 Z M5,10 L5,10 C2.23857625,10 0,7.76142375 0,5 C0,2.23857625 2.23857625,0 5,0 C7.76142375,0 10,2.23857625 10,5 C10,7.76142375 7.76142375,10 5,10 L5,10 Z"></path>
+                </svg>
+            </button>
+        </form>
+    </div>
+    <!-- Nav Content -->
+    <div class="nav__content">
+        <div class="nav__content__panel js-nav-panel">
+            <div class="nav__content__container">
 
-<!-- Nav Content -->
-<div class="nav__content">
-    <div class="nav__content__panel js-nav-panel">
-        <div class="nav__content__container">
+                <ul id="menu-menu-principal-1" class="nav__content__list">
+                    <li class="nav__content__item">
 
-            <ul id="menu-menu-principal-1" class="nav__content__list">
-                <li class="nav__content__item">
+                        <a href='https://www.groupe-psa.com/fr/groupe-automobile/' class="nav__content__link js-nav-panel-toggle">Groupe</a>
 
-                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/' class="nav__content__link js-nav-panel-toggle">Groupe</a>
+                        <div class="nav__content__subpanel js-nav-subpanel">
+                            <a class="nav__content__back js-nav-panel-back" href="#">
+                                <svg class="icon icon-prev" viewBox="0 0 8 14">
+                                    <path d="M8,12.5637469 L2.16145777,6.28187343 L2.16145777,7.71812657 L8,1.43625314 L6.50598839,0 L0.667446162,6.28187343 L0,7 L0.667446162,7.71812657 L6.50598839,14 L8,12.5637469 L8,12.5637469 Z"></path>
+                                </svg>
+                            Retour</a>
+                            <ul class="nav__content__list nav__content__list--sml">
+                                <a class="nav__content__title" href="https://www.groupe-psa.com/fr/groupe-automobile/">Groupe</a>
+                                <li class="nav__content__item">
 
-                    <div class="nav__content__subpanel js-nav-subpanel">
-                        <a class="nav__content__back js-nav-panel-back" href="#">
-                            <svg class="icon icon-prev" viewBox="0 0 8 14">
-                                <path d="M8,12.5637469 L2.16145777,6.28187343 L2.16145777,7.71812657 L8,1.43625314 L6.50598839,0 L0.667446162,6.28187343 L0,7 L0.667446162,7.71812657 L6.50598839,14 L8,12.5637469 L8,12.5637469 Z"></path>
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/psa-createur-de-valeur-partagee-et-durable/' class="nav__content__link">
+                                    Le Groupe PSA : Créateur de Valeur, partagée et durable</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/strategie/' class="nav__content__link">
+                                    Stratégie</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/savoir-faire/' class="nav__content__link">
+                                    Savoir-faire</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/engagement-qualite/' class="nav__content__link">
+                                    Engagement qualité</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/innovation/' class="nav__content__link">
+                                    Innovation</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/performance-industrielle/' class="nav__content__link">
+                                    Performance industrielle</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/responsabilite/' class="nav__content__link">
+                                    Responsabilité et Ethique</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/presence-internationale/' class="nav__content__link">
+                                    Présence internationale</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/chiffres-cles/' class="nav__content__link">
+                                    Chiffres clés</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/gouvernance/' class="nav__content__link">
+                                    Gouvernance</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/histoire/' class="nav__content__link">
+                                    Histoire du Groupe</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/mecenat-fondation/' class="nav__content__link">
+                                    Mécénat et Fondation d’entreprise</a>
+
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav__content__item">
+
+                        <a href='https://www.groupe-psa.com/fr/marques-et-services/' class="nav__content__link js-nav-panel-toggle">Marques et Services</a>
+
+                        <div class="nav__content__subpanel js-nav-subpanel">
+                            <a class="nav__content__back js-nav-panel-back" href="#">
+                                <svg class="icon icon-prev" viewBox="0 0 8 14">
+                                    <path d="M8,12.5637469 L2.16145777,6.28187343 L2.16145777,7.71812657 L8,1.43625314 L6.50598839,0 L0.667446162,6.28187343 L0,7 L0.667446162,7.71812657 L6.50598839,14 L8,12.5637469 L8,12.5637469 Z"></path>
+                                </svg>
+                            Retour</a>
+                            <ul class="nav__content__list nav__content__list--sml">
+                                <a class="nav__content__title" href="https://www.groupe-psa.com/fr/marques-et-services/">Marques et Services</a>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/peugeot/' class="nav__content__link">
+                                    Peugeot</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/citroen/' class="nav__content__link">
+                                    Citroën</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/ds/' class="nav__content__link">
+                                    DS Automobiles</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/opel/' class="nav__content__link">
+                                    Opel</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/vauxhall/' class="nav__content__link">
+                                    Vauxhall</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/free2move/' class="nav__content__link">
+                                    Free2Move</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/psa-powertrain/' class="nav__content__link">
+                                    PSA Powertrain</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/groupe-banque-psa-finance/' class="nav__content__link">
+                                    Banque PSA Finance</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/mister-auto/' class="nav__content__link">
+                                    Mister Auto</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/eurorepar/' class="nav__content__link">
+                                    Eurorepar</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/marques-et-services/autobutler/' class="nav__content__link">
+                                    Autobutler</a>
+
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav__content__item">
+
+                        <a href='https://www.groupe-psa.com/fr/actualites/' class="nav__content__link">
+                        Actualités</a>
+
+                    </li>
+                    <li class="nav__content__item">
+
+                        <a href='https://www.groupe-psa.com/fr/finance/' class="nav__content__link js-nav-panel-toggle">Finance</a>
+
+                        <div class="nav__content__subpanel js-nav-subpanel">
+                            <a class="nav__content__back js-nav-panel-back" href="#">
+                                <svg class="icon icon-prev" viewBox="0 0 8 14">
+                                    <path d="M8,12.5637469 L2.16145777,6.28187343 L2.16145777,7.71812657 L8,1.43625314 L6.50598839,0 L0.667446162,6.28187343 L0,7 L0.667446162,7.71812657 L6.50598839,14 L8,12.5637469 L8,12.5637469 Z"></path>
+                                </svg>
+                            Retour</a>
+                            <ul class="nav__content__list nav__content__list--sml">
+                                <a class="nav__content__title" href="https://www.groupe-psa.com/fr/finance/">Finance</a>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/finance/analystes-et-investisseurs/' class="nav__content__link">
+                                    Analystes et Investisseurs</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/finance/actionnaires-individuels/' class="nav__content__link">
+                                    Actionnaires individuels</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/finance/publications-financieres/' class="nav__content__link">
+                                    Publications financières</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/finance/information-reglementee/' class="nav__content__link">
+                                    Information réglementée</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/finance/action-psa/' class="nav__content__link">
+                                    Action Peugeot S.A.</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/finance/gouvernance/' class="nav__content__link">
+                                    Gouvernance</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/finance/agenda/' class="nav__content__link">
+                                    Agenda</a>
+
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav__content__item">
+
+                        <a href='https://www.groupe-psa.com/fr/talents/' class="nav__content__link js-nav-panel-toggle">Talents</a>
+
+                        <div class="nav__content__subpanel js-nav-subpanel">
+                            <a class="nav__content__back js-nav-panel-back" href="#">
+                                <svg class="icon icon-prev" viewBox="0 0 8 14">
+                                    <path d="M8,12.5637469 L2.16145777,6.28187343 L2.16145777,7.71812657 L8,1.43625314 L6.50598839,0 L0.667446162,6.28187343 L0,7 L0.667446162,7.71812657 L6.50598839,14 L8,12.5637469 L8,12.5637469 Z"></path>
+                                </svg>
+                            Retour</a>
+                            <ul class="nav__content__list nav__content__list--sml">
+                                <a class="nav__content__title" href="https://www.groupe-psa.com/fr/talents/">Talents</a>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/talents/travailler-chez-psa/' class="nav__content__link">
+                                    Travailler dans le Groupe PSA</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/talents/metiers-automobile/' class="nav__content__link">
+                                    Les métiers du Groupe</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/talents/offres-emplois-automobile/' class="nav__content__link">
+                                    Nos offres d’emplois</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/talents/candidats/' class="nav__content__link">
+                                    Candidats</a>
+
+                                </li>
+                                <li class="nav__content__item">
+
+                                    <a href='https://www.groupe-psa.com/fr/talents/salaries/' class="nav__content__link">
+                                    Salariés</a>
+
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="nav__content__item">
+
+                        <a href='https://www.groupe-psa.com/fr/actualites/stories/' class="nav__content__link">
+                        PSA Stories</a>
+
+                    </li>
+                </ul>
+                <ul class="nav__content__list nav__content__list--sml">
+                    <li class="nav__content__item">
+
+                        <a href='https://www.groupe-psa.com/fr/sites-du-groupe/' class="nav__content__link">
+                        Sites du Groupe</a>
+
+                    </li>
+                    <li class="nav__content__item">
+
+                        <a href='https://www.groupe-psa.com/fr/contact/' class="nav__content__link">
+                        Contact</a>
+
+                    </li>
+                    <li class="nav__content__item">
+                        <div class="lang lang--horizontal js-lang">
+                            <span class="lang__label js-lang-label">Langue<svg class="icon icon-dropdown">
+                                <path d="M0,1.24880002 L5.20091005,7.10086399 L6,8 L6.79908995,7.10086399 L12,1.24880002 L10.4018201,0 L5.20091005,5.85206397 L6.79908995,5.85206397 L1.59817991,0 L0,1.24880002 L0,1.24880002 Z"></path>
                             </svg>
-                        Retour</a>
-                        <ul class="nav__content__list nav__content__list--sml">
-                            <a class="nav__content__title" href="https://www.groupe-psa.com/fr/groupe-automobile/">Groupe</a>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/psa-createur-de-valeur-partagee-et-durable/' class="nav__content__link">
-                                Le Groupe PSA : Créateur de Valeur, partagée et durable</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/strategie/' class="nav__content__link">
-                                Stratégie</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/savoir-faire/' class="nav__content__link">
-                                Savoir-faire</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/engagement-qualite/' class="nav__content__link">
-                                Engagement qualité</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/innovation/' class="nav__content__link">
-                                Innovation</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/performance-industrielle/' class="nav__content__link">
-                                Performance industrielle</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/responsabilite/' class="nav__content__link">
-                                Responsabilité et Ethique</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/presence-internationale/' class="nav__content__link">
-                                Présence internationale</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/chiffres-cles/' class="nav__content__link">
-                                Chiffres clés</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/gouvernance/' class="nav__content__link">
-                                Gouvernance</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/histoire/' class="nav__content__link">
-                                Histoire du Groupe</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/groupe-automobile/mecenat-fondation/' class="nav__content__link">
-                                Mécénat et Fondation d’entreprise</a>
-
-                            </li>
-                        </ul>
+                        </span>
+                        <div class="lang__dropdown">
+                            <a href="https://www.groupe-psa.com/en/" lang="en" title="English" class="lang__link">
+                            En</a>
+                            <a href="https://www.groupe-psa.com/fr/" lang="fr" title="Français" class="lang__link">
+                            Fr</a>
+                        </div>
                     </div>
-                </li>
-                <li class="nav__content__item">
-
-                    <a href='https://www.groupe-psa.com/fr/marques-et-services/' class="nav__content__link js-nav-panel-toggle">Marques et Services</a>
-
-                    <div class="nav__content__subpanel js-nav-subpanel">
-                        <a class="nav__content__back js-nav-panel-back" href="#">
-                            <svg class="icon icon-prev" viewBox="0 0 8 14">
-                                <path d="M8,12.5637469 L2.16145777,6.28187343 L2.16145777,7.71812657 L8,1.43625314 L6.50598839,0 L0.667446162,6.28187343 L0,7 L0.667446162,7.71812657 L6.50598839,14 L8,12.5637469 L8,12.5637469 Z"></path>
-                            </svg>
-                        Retour</a>
-                        <ul class="nav__content__list nav__content__list--sml">
-                            <a class="nav__content__title" href="https://www.groupe-psa.com/fr/marques-et-services/">Marques et Services</a>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/peugeot/' class="nav__content__link">
-                                Peugeot</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/citroen/' class="nav__content__link">
-                                Citroën</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/ds/' class="nav__content__link">
-                                DS Automobiles</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/opel/' class="nav__content__link">
-                                Opel</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/vauxhall/' class="nav__content__link">
-                                Vauxhall</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/free2move/' class="nav__content__link">
-                                Free2Move</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/psa-powertrain/' class="nav__content__link">
-                                PSA Powertrain</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/groupe-banque-psa-finance/' class="nav__content__link">
-                                Banque PSA Finance</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/mister-auto/' class="nav__content__link">
-                                Mister Auto</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/eurorepar/' class="nav__content__link">
-                                Eurorepar</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/marques-et-services/autobutler/' class="nav__content__link">
-                                Autobutler</a>
-
-                            </li>
-                        </ul>
-                    </div>
-                </li>
-                <li class="nav__content__item">
-
-                    <a href='https://www.groupe-psa.com/fr/actualites/' class="nav__content__link">
-                    Actualités</a>
-
-                </li>
-                <li class="nav__content__item">
-
-                    <a href='https://www.groupe-psa.com/fr/finance/' class="nav__content__link js-nav-panel-toggle">Finance</a>
-
-                    <div class="nav__content__subpanel js-nav-subpanel">
-                        <a class="nav__content__back js-nav-panel-back" href="#">
-                            <svg class="icon icon-prev" viewBox="0 0 8 14">
-                                <path d="M8,12.5637469 L2.16145777,6.28187343 L2.16145777,7.71812657 L8,1.43625314 L6.50598839,0 L0.667446162,6.28187343 L0,7 L0.667446162,7.71812657 L6.50598839,14 L8,12.5637469 L8,12.5637469 Z"></path>
-                            </svg>
-                        Retour</a>
-                        <ul class="nav__content__list nav__content__list--sml">
-                            <a class="nav__content__title" href="https://www.groupe-psa.com/fr/finance/">Finance</a>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/finance/analystes-et-investisseurs/' class="nav__content__link">
-                                Analystes et Investisseurs</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/finance/actionnaires-individuels/' class="nav__content__link">
-                                Actionnaires individuels</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/finance/publications-financieres/' class="nav__content__link">
-                                Publications financières</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/finance/information-reglementee/' class="nav__content__link">
-                                Information réglementée</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/finance/action-psa/' class="nav__content__link">
-                                Action Peugeot S.A.</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/finance/gouvernance/' class="nav__content__link">
-                                Gouvernance</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/finance/agenda/' class="nav__content__link">
-                                Agenda</a>
-
-                            </li>
-                        </ul>
-                    </div>
-                </li>
-                <li class="nav__content__item">
-
-                    <a href='https://www.groupe-psa.com/fr/talents/' class="nav__content__link js-nav-panel-toggle">Talents</a>
-
-                    <div class="nav__content__subpanel js-nav-subpanel">
-                        <a class="nav__content__back js-nav-panel-back" href="#">
-                            <svg class="icon icon-prev" viewBox="0 0 8 14">
-                                <path d="M8,12.5637469 L2.16145777,6.28187343 L2.16145777,7.71812657 L8,1.43625314 L6.50598839,0 L0.667446162,6.28187343 L0,7 L0.667446162,7.71812657 L6.50598839,14 L8,12.5637469 L8,12.5637469 Z"></path>
-                            </svg>
-                        Retour</a>
-                        <ul class="nav__content__list nav__content__list--sml">
-                            <a class="nav__content__title" href="https://www.groupe-psa.com/fr/talents/">Talents</a>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/talents/travailler-chez-psa/' class="nav__content__link">
-                                Travailler dans le Groupe PSA</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/talents/metiers-automobile/' class="nav__content__link">
-                                Les métiers du Groupe</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/talents/offres-emplois-automobile/' class="nav__content__link">
-                                Nos offres d’emplois</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/talents/candidats/' class="nav__content__link">
-                                Candidats</a>
-
-                            </li>
-                            <li class="nav__content__item">
-
-                                <a href='https://www.groupe-psa.com/fr/talents/salaries/' class="nav__content__link">
-                                Salariés</a>
-
-                            </li>
-                        </ul>
-                    </div>
-                </li>
-                <li class="nav__content__item">
-
-                    <a href='https://www.groupe-psa.com/fr/actualites/stories/' class="nav__content__link">
-                    PSA Stories</a>
-
                 </li>
             </ul>
-            <ul class="nav__content__list nav__content__list--sml">
-                <li class="nav__content__item">
-
-                    <a href='https://www.groupe-psa.com/fr/sites-du-groupe/' class="nav__content__link">
-                    Sites du Groupe</a>
-
-                </li>
-                <li class="nav__content__item">
-
-                    <a href='https://www.groupe-psa.com/fr/contact/' class="nav__content__link">
-                    Contact</a>
-
-                </li>
-                <li class="nav__content__item">
-                    <div class="lang lang--horizontal js-lang">
-                        <span class="lang__label js-lang-label">Langue<svg class="icon icon-dropdown">
-                            <path d="M0,1.24880002 L5.20091005,7.10086399 L6,8 L6.79908995,7.10086399 L12,1.24880002 L10.4018201,0 L5.20091005,5.85206397 L6.79908995,5.85206397 L1.59817991,0 L0,1.24880002 L0,1.24880002 Z"></path>
-                        </svg>
-                    </span>
-                    <div class="lang__dropdown">
-                        <a href="https://www.groupe-psa.com/en/" lang="en" title="English" class="lang__link">
-                        En</a>
-                        <a href="https://www.groupe-psa.com/fr/" lang="fr" title="Français" class="lang__link">
-                        Fr</a>
-                    </div>
-                </div>
-            </li>
-        </ul>
-    </div>
-    <div class="nav__footer">
-        <div class="nav__recap js-stock-exchange" data-url-json="https://www.groupe-psa.com/wp-json/oo-stock-exchange/get?lang=fr">
-            <div class="nav__daily">
-                <span class="nav__daily__date js-stock-exchange-date"></span>
-                <span class="nav__daily__hour js-stock-exchange-hour"></span>
-            </div>
-            <div class="nav__stock">
-                <span class="nav__stock__item">Peugeot SA</span>
-                <span class="nav__stock__item js-stock-exchange-psa-value"></span>
-                <span class="nav__stock__item nav__stock__item--value js-stock-exchange-psa-variation"></span>
-            </div>
-            <div class="nav__stock">
-                <span class="nav__stock__item">CAC 40</span>
-                <span class="nav__stock__item js-stock-exchange-cac-value"></span>
-                <span class="nav__stock__item nav__stock__item--value js-stock-exchange-cac-variation"></span>
-            </div>
         </div>
-        <ul class="nav__social">
+        <div class="nav__footer">
+            <div class="nav__recap js-stock-exchange" data-url-json="https://www.groupe-psa.com/wp-json/oo-stock-exchange/get?lang=fr">
+                <div class="nav__daily">
+                    <span class="nav__daily__date js-stock-exchange-date"></span>
+                    <span class="nav__daily__hour js-stock-exchange-hour"></span>
+                </div>
+                <div class="nav__stock">
+                    <span class="nav__stock__item">Peugeot SA</span>
+                    <span class="nav__stock__item js-stock-exchange-psa-value"></span>
+                    <span class="nav__stock__item nav__stock__item--value js-stock-exchange-psa-variation"></span>
+                </div>
+                <div class="nav__stock">
+                    <span class="nav__stock__item">CAC 40</span>
+                    <span class="nav__stock__item js-stock-exchange-cac-value"></span>
+                    <span class="nav__stock__item nav__stock__item--value js-stock-exchange-cac-variation"></span>
+                </div>
+            </div>
+            <ul class="nav__social">
+                <li class="nav__social__item">
+                    <a target="_blank" class="nav__social__link js-ga-social-link" data-ga-label="twitter" data-ga-page="/fr/" href="https://twitter.com/groupePSA"><svg class="icon icon-twitter">
+                        <path d="M22.2769105,2.6695495 C21.4679105,3.0295495 20.5979105,3.2745495 19.6849105,3.3825495 C20.6169105,2.8225495 21.3319105,1.9345495 21.6689105,0.875549498 C20.7969105,1.3955495 19.8309105,1.7715495 18.8029105,1.9765495 C17.9799105,1.0955495 16.8059105,0.544549498 15.5089105,0.544549498 C13.0159105,0.544549498 10.9949105,2.5735495 10.9949105,5.0765495 C10.9949105,5.4325495 11.0349105,5.7755495 11.1119105,6.1095495 C7.36091049,5.9205495 4.03391049,4.1155495 1.80891049,1.3745495 C1.41991049,2.0445495 1.19791049,2.8225495 1.19791049,3.6515495 C1.19791049,5.2255495 1.99491049,6.6115495 3.20591049,7.4245495 C2.46591049,7.4025495 1.76991049,7.1975495 1.16091049,6.8585495 L1.16091049,6.9155495 C1.16091049,9.1105495 2.71691049,10.9425495 4.78191049,11.3585495 C4.40291049,11.4615495 4.00391049,11.5165495 3.59191049,11.5165495 C3.30191049,11.5165495 3.01891049,11.4885495 2.74291049,11.4365495 C3.31791049,13.2355495 4.98491049,14.5465495 6.95891049,14.5825495 C5.41491049,15.7995495 3.46891049,16.5235495 1.35391049,16.5235495 C0.989910494,16.5235495 0.630910494,16.5015495 0.276910494,16.4595495 C2.27491049,17.7465495 4.64691049,18.4965495 7.19591049,18.4965495 C15.4979105,18.4965495 20.0379105,11.5915495 20.0379105,5.6025495 C20.0379105,5.4045495 20.0339105,5.2095495 20.0239105,5.0165495 C20.9069105,4.3765495 21.6719105,3.5795495 22.2769105,2.6695495 L22.2769105,2.6695495 Z"></path>
+                    </svg>
+                </a>
+            </li>
             <li class="nav__social__item">
-                <a target="_blank" class="nav__social__link js-ga-social-link" data-ga-label="twitter" data-ga-page="/fr/" href="https://twitter.com/groupePSA"><svg class="icon icon-twitter">
-                    <path d="M22.2769105,2.6695495 C21.4679105,3.0295495 20.5979105,3.2745495 19.6849105,3.3825495 C20.6169105,2.8225495 21.3319105,1.9345495 21.6689105,0.875549498 C20.7969105,1.3955495 19.8309105,1.7715495 18.8029105,1.9765495 C17.9799105,1.0955495 16.8059105,0.544549498 15.5089105,0.544549498 C13.0159105,0.544549498 10.9949105,2.5735495 10.9949105,5.0765495 C10.9949105,5.4325495 11.0349105,5.7755495 11.1119105,6.1095495 C7.36091049,5.9205495 4.03391049,4.1155495 1.80891049,1.3745495 C1.41991049,2.0445495 1.19791049,2.8225495 1.19791049,3.6515495 C1.19791049,5.2255495 1.99491049,6.6115495 3.20591049,7.4245495 C2.46591049,7.4025495 1.76991049,7.1975495 1.16091049,6.8585495 L1.16091049,6.9155495 C1.16091049,9.1105495 2.71691049,10.9425495 4.78191049,11.3585495 C4.40291049,11.4615495 4.00391049,11.5165495 3.59191049,11.5165495 C3.30191049,11.5165495 3.01891049,11.4885495 2.74291049,11.4365495 C3.31791049,13.2355495 4.98491049,14.5465495 6.95891049,14.5825495 C5.41491049,15.7995495 3.46891049,16.5235495 1.35391049,16.5235495 C0.989910494,16.5235495 0.630910494,16.5015495 0.276910494,16.4595495 C2.27491049,17.7465495 4.64691049,18.4965495 7.19591049,18.4965495 C15.4979105,18.4965495 20.0379105,11.5915495 20.0379105,5.6025495 C20.0379105,5.4045495 20.0339105,5.2095495 20.0239105,5.0165495 C20.9069105,4.3765495 21.6719105,3.5795495 22.2769105,2.6695495 L22.2769105,2.6695495 Z"></path>
+                <a target="_blank" class="nav__social__link js-ga-social-link" data-ga-label="linkedin" data-ga-page="/fr/" href="https://www.linkedin.com/company/groupepsa?trk=top_nav_home"><svg class="icon icon-linkedin" viewBox="0 0 27 24">
+                    <path d="M15.647544,10.7927422 L15.647544,10.7387422 C15.634544,10.7567422 15.620544,10.7757422 15.609544,10.7927422 L15.647544,10.7927422 L15.647544,10.7927422 Z M6.65654398,24.6037422 L0.650543982,24.6037422 L0.650543982,8.63774224 L6.65654398,8.63774224 L6.65654398,24.6037422 L6.65654398,24.6037422 Z M3.63854398,6.40174224 L3.60154398,6.40174224 C1.65854398,6.40174224 0.402543982,5.16074224 0.402543982,3.60974224 C0.402543982,2.02674224 1.69654398,0.820742243 3.67654398,0.820742243 C5.65554398,0.820742243 6.87454398,2.02674224 6.91254398,3.60974224 C6.91254398,5.16074224 5.65554398,6.40174224 3.63854398,6.40174224 L3.63854398,6.40174224 Z M27.651544,24.6037422 L21.677544,24.6037422 L21.677544,15.9617422 C21.677544,13.7897422 20.902544,12.3097422 18.808544,12.3097422 C17.208544,12.3097422 16.256544,13.3087422 15.837544,14.2727422 C15.685544,14.6187422 15.647544,15.1007422 15.647544,15.5817422 L15.647544,24.6037422 L9.64054398,24.6037422 C9.64054398,24.6037422 9.71754398,10.1527422 9.64054398,8.63774224 L15.647544,8.63774224 L15.647544,10.7387422 C16.415544,9.63874224 17.791544,8.07174224 20.863544,8.07174224 C24.671544,8.07174224 27.651544,10.3797422 27.651544,15.3417422 L27.651544,24.6037422 L27.651544,24.6037422 Z"></path>
                 </svg>
             </a>
         </li>
         <li class="nav__social__item">
-            <a target="_blank" class="nav__social__link js-ga-social-link" data-ga-label="linkedin" data-ga-page="/fr/" href="https://www.linkedin.com/company/groupepsa?trk=top_nav_home"><svg class="icon icon-linkedin" viewBox="0 0 27 24">
-                <path d="M15.647544,10.7927422 L15.647544,10.7387422 C15.634544,10.7567422 15.620544,10.7757422 15.609544,10.7927422 L15.647544,10.7927422 L15.647544,10.7927422 Z M6.65654398,24.6037422 L0.650543982,24.6037422 L0.650543982,8.63774224 L6.65654398,8.63774224 L6.65654398,24.6037422 L6.65654398,24.6037422 Z M3.63854398,6.40174224 L3.60154398,6.40174224 C1.65854398,6.40174224 0.402543982,5.16074224 0.402543982,3.60974224 C0.402543982,2.02674224 1.69654398,0.820742243 3.67654398,0.820742243 C5.65554398,0.820742243 6.87454398,2.02674224 6.91254398,3.60974224 C6.91254398,5.16074224 5.65554398,6.40174224 3.63854398,6.40174224 L3.63854398,6.40174224 Z M27.651544,24.6037422 L21.677544,24.6037422 L21.677544,15.9617422 C21.677544,13.7897422 20.902544,12.3097422 18.808544,12.3097422 C17.208544,12.3097422 16.256544,13.3087422 15.837544,14.2727422 C15.685544,14.6187422 15.647544,15.1007422 15.647544,15.5817422 L15.647544,24.6037422 L9.64054398,24.6037422 C9.64054398,24.6037422 9.71754398,10.1527422 9.64054398,8.63774224 L15.647544,8.63774224 L15.647544,10.7387422 C16.415544,9.63874224 17.791544,8.07174224 20.863544,8.07174224 C24.671544,8.07174224 27.651544,10.3797422 27.651544,15.3417422 L27.651544,24.6037422 L27.651544,24.6037422 Z"></path>
+            <a target="_blank" class="nav__social__link js-ga-social-link" data-ga-label="facebook" data-ga-page="/fr/" href="https://www.facebook.com/groupePSA"><svg class="icon icon-facebook" viewBox="0 0 11 24">
+                <path></path>
             </svg>
         </a>
     </li>
     <li class="nav__social__item">
-        <a target="_blank" class="nav__social__link js-ga-social-link" data-ga-label="facebook" data-ga-page="/fr/" href="https://www.facebook.com/groupePSA"><svg class="icon icon-facebook" viewBox="0 0 11 24">
+        <a target="_blank" class="nav__social__link js-ga-social-link" data-ga-label="youtube" data-ga-page="/fr/" href="https://www.youtube.com/user/PSAPEUGEOTCITROEN?feature=mhee"><svg class="icon icon-youtube" id="youtubeicon">
             <path></path>
         </svg>
     </a>
-</li>
-<li class="nav__social__item">
-    <a target="_blank" class="nav__social__link js-ga-social-link" data-ga-label="youtube" data-ga-page="/fr/" href="https://www.youtube.com/user/PSAPEUGEOTCITROEN?feature=mhee"><svg class="icon icon-youtube" id="youtubeicon">
-        <path></path>
-    </svg>
-</a>
 </li>
 </ul>
 </div>
