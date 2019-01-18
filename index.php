@@ -88,7 +88,7 @@
     </div>
 </header>
 
-<!-- Nav -->
+<!-- Bouton menu -->
 <nav class="nav js-nav">
     <div class="nav__header">
         <form class="form nav__form" action="https://www.groupe-psa.com/fr/resultats-de-recherche/" method="GET">
@@ -101,99 +101,13 @@
             </button>
         </form>
     </div>
-    <!-- Nav Content -->
+
+    <!-- Menu à droite -->
     <div class="nav__content">
         <div class="nav__content__panel js-nav-panel">
             <div class="nav__content__container">
-
                 <ul id="menu-menu-principal-1" class="nav__content__list">
-                    <li class="nav__content__item">
-
-                        <a href='https://www.groupe-psa.com/fr/groupe-automobile/' class="nav__content__link js-nav-panel-toggle">Groupe</a>
-
-                        <div class="nav__content__subpanel js-nav-subpanel">
-                            <a class="nav__content__back js-nav-panel-back" href="#">
-                                <svg class="icon icon-prev" viewBox="0 0 8 14">
-                                    <path d="M8,12.5637469 L2.16145777,6.28187343 L2.16145777,7.71812657 L8,1.43625314 L6.50598839,0 L0.667446162,6.28187343 L0,7 L0.667446162,7.71812657 L6.50598839,14 L8,12.5637469 L8,12.5637469 Z"></path>
-                                </svg>
-                            Retour</a>
-                            <ul class="nav__content__list nav__content__list--sml">
-                                <a class="nav__content__title" href="https://www.groupe-psa.com/fr/groupe-automobile/">Groupe</a>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/psa-createur-de-valeur-partagee-et-durable/' class="nav__content__link">
-                                    Le Groupe PSA : Créateur de Valeur, partagée et durable</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/strategie/' class="nav__content__link">
-                                    Stratégie</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/savoir-faire/' class="nav__content__link">
-                                    Savoir-faire</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/engagement-qualite/' class="nav__content__link">
-                                    Engagement qualité</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/innovation/' class="nav__content__link">
-                                    Innovation</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/performance-industrielle/' class="nav__content__link">
-                                    Performance industrielle</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/responsabilite/' class="nav__content__link">
-                                    Responsabilité et Ethique</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/presence-internationale/' class="nav__content__link">
-                                    Présence internationale</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/chiffres-cles/' class="nav__content__link">
-                                    Chiffres clés</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/gouvernance/' class="nav__content__link">
-                                    Gouvernance</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/histoire/' class="nav__content__link">
-                                    Histoire du Groupe</a>
-
-                                </li>
-                                <li class="nav__content__item">
-
-                                    <a href='https://www.groupe-psa.com/fr/groupe-automobile/mecenat-fondation/' class="nav__content__link">
-                                    Mécénat et Fondation d’entreprise</a>
-
-                                </li>
-                            </ul>
-                        </div>
-                    </li>
+                    <?php include ('menuNav/menugroupe-droite.html'); ?>
                     <li class="nav__content__item">
 
                         <a href='https://www.groupe-psa.com/fr/marques-et-services/' class="nav__content__link js-nav-panel-toggle">Marques et Services</a>
@@ -469,12 +383,13 @@
 <div class="nav__layer js-nav-toggle"></div>
 
 
-<!-- Cover Full -->
+<!-- DIV de démo -->
 <div class="demo-div">
 <h1 class="title-psa">Matrice & PSA </h1>
     <img class="logo-matrice" src="matrice.png">
     <p>Vous lancent un défi : designer et coder le prochain site de PSA.<br/><b>Nous afficherons ici le site de l'équipe gagnante !</b></p>
 </div>
+
 <section class="cover-news">
     <div class="grid">
         <div class="cover-news__container">
